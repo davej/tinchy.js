@@ -1,0 +1,12 @@
+{
+  "name": "tinchy",
+  "description": "Simple and compact (less than 40 lines) personal URL shortener, powered by Express on Node.js. No database needed, Tinchy uses a JSON file for persistence.",
+  "author": "Dave Jeffery <dave@davejeffery.com>",
+  "dependencies": {
+    "express": "2.4.x",
+  },
+  "devDependencies": {
+    "coffee-script": "1.2.x"
+  },
+  "engine": "node >= 0.6.1"
+}
